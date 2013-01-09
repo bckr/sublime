@@ -1,6 +1,6 @@
-#sublime
+#Sublime
 
-Just my Sublime Text 2 preferences
+My Sublime Text 2 preferences
 
 ##Installed Packages
 
@@ -11,5 +11,6 @@ Just my Sublime Text 2 preferences
  * PlainTasks
  * AdvancedNewFile
  * Alignment
- * ZenCoding
  * Theme - Soda
+ * GitGutter
+ * LaTexTools
