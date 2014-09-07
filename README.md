@@ -5,12 +5,11 @@ My Sublime Text 3 preferences
 ##Installed Packages
 
  * Package Control
- * Git
+ * CTags
  * Gitignore
- * HTTP Requester
- * PlainTasks
- * AdvancedNewFile
+ * Gitigutter
+ * Haml
  * Alignment
  * Theme - Soda
- * GitGutter
  * LaTexTools
+ * SFTP
