@@ -1,6 +1,6 @@
 #Sublime
 
-My Sublime Text 2 preferences
+My Sublime Text 3 preferences
 
 ##Installed Packages
 
