@@ -1,26 +1,39 @@
 {
-	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
-	"theme": "Soda Light.sublime-theme",
-	"font_face": "Menlo",
-	"font_size": 13.0,
-
-	"highlight_line": true,
-	"word_wrap": false,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-
-	"hot_exit": false,
-	"remember_open_files": true,
+	"color_scheme": "Packages/User/Espresso Soda (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"draw_white_space": "all",
+	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
-	"trim_trailing_white_space_on_save": true,
-
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.lock"
+	],
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
 		".hg",
-		"CVS"
-	]
+		"CVS",
+		".bundle",
+		"node_modules"
+	],
+	"font_face": "Menlo",
+	"font_size": 13,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"SublimePackageSync",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": true,
+	"soda_folder_icons": false,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
